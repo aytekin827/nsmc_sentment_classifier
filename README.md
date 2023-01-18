@@ -5,7 +5,7 @@ Sentiment classifier with NSMC data
 네이버 영화 리뷰 데이터  
 출처 : https://github.com/e9t/nsmc
 
-2. 결과
+2. 결과  
 |모델|임베딩벡터|점수|
 |------|---|---|
 |LSTM|Word2Vec|0.842|

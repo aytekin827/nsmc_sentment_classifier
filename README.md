@@ -8,8 +8,8 @@ Sentiment classifier with NSMC data
 2. 결과  
 
 
-|모델|임베딩벡터|점수|
-|------|---|---|
-|LSTM|Word2Vec|0.842|
-|LSTM|keras Embedding|0.842|
+|번호|모델|임베딩벡터|점수|
+|---|------|---|---|
+|1|LSTM|Word2Vec|0.842|
+|2|LSTM|keras Embedding|0.842|
 
